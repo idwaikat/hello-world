@@ -1,6 +1,7 @@
-# hello-world
 Hello World!
 
 This is my first Git Repo and file
 
-VS Branch
+Visual Studio Source Branch
+
+Thanks
