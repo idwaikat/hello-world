@@ -1,7 +1,7 @@
 Hello World!
 
-This is my first Git Repo and file
-
 Visual Studio Source Branch
 
-Thanks
+This is my first Git Repo and file.
+
+Thank you
